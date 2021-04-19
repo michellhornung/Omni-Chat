@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		k6vgZwaDYAyF9m0qR56gEbzmbh0=
+		j20J738Lv7qpp4M297HIzcO2bfE=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,11 +18,15 @@
 		</data>
 		<key>flutter_assets/NOTICES</key>
 		<data>
-		vk0kg7XWsE1OjjA/F3zc6Y60itw=
+		w5o0KaBnc+7o2RFIIx7TvQgUifQ=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		XxTTbEdqMMr+614Mzm3EJYMaT9I=
+		</data>
+		<key>flutter_assets/images/logo-lhtec.png</key>
+		<data>
+		sgBhgvonQJHSIpZDmWlDwTFRGoE=
 		</data>
 		<key>flutter_assets/images/logo.png</key>
 		<data>
@@ -30,11 +34,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		Bpo1zYxnMKgIDCWmW6QiktUBjH4=
+		s37GYuKmk8eITCGjoR+XW1kD7XQ=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		RGDpjE/hIwoY6T9oB/0MObYPsSY=
+		VFcI2h5Vts9QzqyrO0bvZLTn3GQ=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -42,7 +46,7 @@
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		48wiuHnlzYQvo/HpvV8dQ6OhATs=
+		5RU8V8ee0PRrEh47HOvvkxi7Vqs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k6vgZwaDYAyF9m0qR56gEbzmbh0=
+			j20J738Lv7qpp4M297HIzcO2bfE=
 			</data>
 			<key>hash2</key>
 			<data>
-			qx33TkzxJ/s3F83xhPeHToKTcw1d+Yg2CALL31VucdI=
+			EPi8+OjqYrEjXk8xDp+LnVzciECzfVKzEBQpqwjTVc8=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -73,11 +77,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vk0kg7XWsE1OjjA/F3zc6Y60itw=
+			w5o0KaBnc+7o2RFIIx7TvQgUifQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ykEG6B0iuMM1HpDNopYmZUSKmGLaXe7SreJ9pJ4Plp8=
+			nkzd/iH0fK+lQ67a23UIgQBG5Zd3wSQ8p/ek/tPnbco=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -89,6 +93,17 @@
 			<key>hash2</key>
 			<data>
 			Nt7OTUXA/dkAWXOmvWbTlkJLC1yvAxfCcd3OIaLWdQQ=
+			</data>
+		</dict>
+		<key>flutter_assets/images/logo-lhtec.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sgBhgvonQJHSIpZDmWlDwTFRGoE=
+			</data>
+			<key>hash2</key>
+			<data>
+			gCmJlIHCy/jQgBbgoY5kuztqKJeUci9SI/7UiW99A9A=
 			</data>
 		</dict>
 		<key>flutter_assets/images/logo.png</key>
@@ -106,22 +121,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bpo1zYxnMKgIDCWmW6QiktUBjH4=
+			s37GYuKmk8eITCGjoR+XW1kD7XQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xVuz4hk5MOtTK7YB7/MDWXzPS9nF2Z5Gg4AFH3630rY=
+			mgG6X/ojw2eprqlmJWd99wD8rnyfQKNCpJN7XxpWoz0=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RGDpjE/hIwoY6T9oB/0MObYPsSY=
+			VFcI2h5Vts9QzqyrO0bvZLTn3GQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			s7EuH1c47pWy2V50YaZWHzM9MSLSl1fll9SrZXvH4VA=
+			BeBBspD+kaTITke9p0kDL1Rko2swmBwma7RYrmrY1qQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -139,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			48wiuHnlzYQvo/HpvV8dQ6OhATs=
+			5RU8V8ee0PRrEh47HOvvkxi7Vqs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fh95LadxcIxjVY+f6VA3HDyGtA7vGGUACjhlQBemy+c=
+			+djwV7vzwY9IT6mbutILeRap9mbK2HKFrINylM6jfJE=
 			</data>
 		</dict>
 	</dict>
