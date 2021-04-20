@@ -21,6 +21,7 @@ routes: {
   WelcomeScreen.id: (context) => WelcomeScreen(),
   LoginScreen.id: (context) => LoginScreen(),
   ChatScreen.id: (context) => ChatScreen(),
+  ChatsRecebidosScreen.id: (context) => ChatsRecebidosScreen(),
 },
      );
   }

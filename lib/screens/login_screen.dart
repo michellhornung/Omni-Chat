@@ -1,3 +1,5 @@
+import 'package:flash_chat/screens/chat_screen.dart';
+import 'package:flash_chat/screens/chats_recebidos_screen.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -31,7 +33,7 @@ class _LoginScreenState extends State<LoginScreen> {
               },
               decoration: InputDecoration(
                 hintText: 'Enter your email',
-                hintStyle: TextStyle(fontSize: 20.0, color: Colors.black),
+                hintStyle: TextStyle(fontSize: 20.0, color: Colors.grey),
                 contentPadding:
                     EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
                 border: OutlineInputBorder(
@@ -58,7 +60,7 @@ class _LoginScreenState extends State<LoginScreen> {
               },
               decoration: InputDecoration(
                 hintText: 'Enter your password.',
-                hintStyle: TextStyle(fontSize: 20.0, color: Colors.black),
+                hintStyle: TextStyle(fontSize: 20.0, color: Colors.grey),
                 focusColor: Colors.black,
                 contentPadding:
                     EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
@@ -88,7 +90,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 elevation: 5.0,
                 child: MaterialButton(
                   onPressed: () {
-                    Navigator.pushNamed(context, LoginScreen.id );
+                    Navigator.pushNamed(context, ChatsRecebidosScreen.id );
                   },
                   minWidth: 200.0,
                   height: 42.0,
